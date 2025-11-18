@@ -19,7 +19,7 @@
 
 - name: Jaime Duque Domingo
   photo: jaime1.jpg
-  info: Full Professor
+  info: Associate Professor 
   email: ''
   number_educ: 4
   education1: <a href="https://jaimeduque.uva.es/">Website</a>
@@ -36,8 +36,8 @@
   education2: <a href="https://orcid.org/0000-0002-0956-6030">Link to ORCID</a>
 
 - name: Miguel García Gómez
-  photo: Miguel.png
-  info: Associate Professor
+  photo: miguel.png
+  info: PhD Candidate
   email: ''
   number_educ: 2
   education1: <a href="https://orcid.org/0009-0007-2057-3753">Link to ORCID</a>
@@ -45,7 +45,7 @@
 
 - name: Sergio Merino Fidalgo
   photo: sergio.jpg
-  info: Research Associate
+  info: PhD Candidate
   email: ''
   number_educ: 3
   education1: <a href="https://portaldelaciencia.uva.es/investigadores/19371/detalle">Website</a>
@@ -54,7 +54,7 @@
 
 - name: Celia Sánchez Girón-Coca
   photo: celia.png
-  info: Research Associate
+  info: PhD Candidate
   email: ''
   number_educ: 3
   education1: <a href="https://portaldelaciencia.uva.es/investigadores/644056/detalle?lang=en">Website</a>

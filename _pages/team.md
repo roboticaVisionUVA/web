@@ -1,7 +1,7 @@
 ---
-title: "ITAP Medical Robotics - Team"
+title: "ITAP Robotics & Computer Vision - Team"
 layout: gridlay
-excerpt: "ITAP Medical Robotics - Team"
+excerpt: "ITAP Robotics & Computer Vision - Team"
 sitemap: false
 permalink: /team/
 ---
@@ -12,7 +12,7 @@ permalink: /team/
 
 
 <center>
-  <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/comida_julio24.jpg" style="width:80%;">
+  <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.JPG" style="width:80%;">
 
   <div>
 
