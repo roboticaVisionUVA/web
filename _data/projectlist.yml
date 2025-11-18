@@ -30,7 +30,7 @@
     and improve the quality of life of older adults, maintaining its leadership
     in providing innovative services.
   url: https://www.eiarob.es/
-  category: ''
+  category: 'socialRobotics'
 
 - title: Rosogar
   image: rosogar.jpg
@@ -49,7 +49,7 @@
     older people, as well as to support professionals and caregivers through
     technology. (Developed at CARTIF)
   url: https://www.itap.uva.es/pid2021-123020ob-i00/
-  category: ''
+  category: 'socialRobotics'
 
 - title: Red 5R
   image: red5r.jpg
@@ -65,7 +65,7 @@
     demonstration pilots in real industrial environments to validate the
     developed solutions. (Developed at CARTIF)
   url: https://red5r.es/
-  category: ''
+  category: 'manufacturing'
 
 - title: SRURAL
   image: srural.jpg
@@ -78,7 +78,7 @@
     quality of life of rural populations, promote sustainable development and
     support local administrations in decision-making. (Developed at CARTIF)
   url: https://srural.es/
-  category: ''
+  category: 'smartTechnologies'
 
 - title: AGROVIS
   image: AGROVIS.jpg
@@ -91,7 +91,7 @@
     integrated into production lines and work in real time, supporting both
     large industries and small and medium-sized enterprises. (Developed at CARTIF)
   url: https://www.cartif.es/agrovis/
-  category: ''
+  category: 'manufacturing'
 
 - title: AIROSO
   image: AIROSO.jpg
@@ -105,7 +105,7 @@
     socio-health sector, highlighting its potential impact on the quality of
     life of dependent people and the work of professionals. (Developed at CARTIF)
   url: https://www.cartif.es/la-fundacion-domusvi-premia-el-proyecto-de-cartif-airoso-por-su-contribucion-al-sector-sociosanitario/
-  category: ''
+  category: 'socialRobotics'
 
 - title: ROASIS
   image: roasis.jpg
@@ -118,7 +118,7 @@
     to create safer, more supportive living environments that promote autonomy
     and delay the need for institutionalization. (Developed at CARTIF)
   url: https://www.itap.uva.es/roasis/
-  category: ''
+  category: 'socialRobotics'
 
 - title: RURITAGE
   image: RU.jpg
@@ -132,4 +132,4 @@
     heritage-led strategies to enhance skills, knowledge, and capacity building.
     (Developed at CARTIF)
   url: https://www.cartif.es/en/ruritage-en/
-  category: ''
+  category: 'cultural'

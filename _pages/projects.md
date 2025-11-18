@@ -1,7 +1,7 @@
 ---
-title: "ITAP Medical Robotics - Projects"
+title: "ITAP Robotics & Computer Vision - Projects"
 layout: gridlay
-excerpt: "ITAP Medical Robotics -- Projects"
+excerpt: "ITAP Robotics & Computer Vision - Projects"
 sitemap: false
 permalink: /projects/
 ---
@@ -9,11 +9,11 @@ permalink: /projects/
 
 # Projects
 
-## **Rehabilitation robotics**
+## **Social Robotics**
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
-{% if proj.category == "Rehab" %}
+{% if proj.category == "socialRobotics" %}
 <div style="padding-left:15px;padding-right:15px;">
 <div class="well" style="overflow: hidden;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
@@ -24,11 +24,11 @@ permalink: /projects/
 {% endif %}
 {% endfor %}
 
-## **Robotic assisted surgery**
+## **Manufacturing**
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
-{% if proj.category == "Surgery" %}
+{% if proj.category == "manufacturing" %}
 <div style="padding-left:15px;padding-right:15px;">
 <div class="well" style="overflow: hidden;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
@@ -39,11 +39,26 @@ permalink: /projects/
 {% endif %}
 {% endfor %}
 
-## **Sensors and instrumentation**
+## **Cultural Heritage**
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projectlist %}
-{% if proj.category == "Sensors" %}
+{% if proj.category == "cultural" %}
+<div style="padding-left:15px;padding-right:15px;">
+<div class="well" style="overflow: hidden;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
+<pubtit><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ proj.url }}">{{ proj.title }}</a></pubtit>
+<p>{{ proj.description }}</p>
+</div>
+</div>
+{% endif %}
+{% endfor %}
+
+## **Smart Technologies**
+
+{% assign number_printed = 0 %}
+{% for proj in site.data.projectlist %}
+{% if proj.category == "smartTechnologies" %}
 <div style="padding-left:15px;padding-right:15px;">
 <div class="well" style="overflow: hidden;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />

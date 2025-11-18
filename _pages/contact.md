@@ -9,9 +9,9 @@ permalink: /contact.html
 # Contact
 
 <p style="font-weight: bold;font-size:x-large;padding-left:5px;padding-top:20px;">
-Juan-Carlos Fraile-Marinero  
-Tel. +34-983-423355  
-jcfraile@uva.es
+Eduardo Zalama Casanova 
+Tel. +34-983185048
+ezalama@uva.es
 </p>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/contpic/eii_outside.jpg" alt="EII" style="width:100%;">
