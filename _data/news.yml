@@ -1,62 +1,7 @@
-- date: 3 November 2025
-  headline: "We have attended the 13th Ibero-American Conference on Support Technologies for Disabilities (IBERDISCAP2025) held in Seville, Spain."
-  image: Iberdiscap2025.png
-  link: 
-
-- date: 9 October 2025
-  headline: "Dr. Juan Carlos Fraile had the honor of giving the inaugural lesson at Millán Santos University."
-  image: JuanCarlosLeccionInaugural2025.jpg
-  link: 
-
-- date: 23 September 2025
-  headline: "Dr. Juan Carlos Fraile shares our lab's work at Healthy Innovation: National Health and Welfare Forum."
-  image: JuanCarlosForoInnovacionSaludable2025.jpg
-  link: <a href="https://www.cartif.es/foro-salud-bienestar/" target="_blank">"Foro Nacional Salud y Bienestar - Innovación Saludable - Ciencia, Tecnología y Personas"</a>
-
 - date: 4 September 2025
   headline: "Our team, along with some of our colleagues from our University, attended the XLVI Jornadas de Automática in Cartagena."
   image: JornadasDeAutomatica2025.png
   link: <a href="https://www.jautomatica.upct.es/127169/detail/xlvi-jornadas-de-automatica-cartagena-2025.html" target="_blank">XLVI Jornadas de Automática in Cartagena</a>
-
-- date: 25 August 2025
-  headline: "Ana Cisnal has published her award winning Ph.D. thesis on neuromotor rehabilitation as a book via Springer."
-  image: AnaLibro2025Seminario.png
-  link: <a href="https://doi.org/10.1007/978-3-032-02485-5_6" target="_blank">Development of Biocooperative Control Strategies for Neuromotor Rehabilitation Robotic Platforms, de Ana Cisnal de la Rica</a>
-
-- date: 23 July 2025
-  headline: "Coinciding with the celebration of 'El Sorteo de Oro' in Valladolid the Red Cross of Spain president, María del Mar Pageo, learned about our work on medical robotics, serious games and exergames, to promote active and healthy aging."
-  image: SorteoCruzRoja2025.png
-  link: 
-
-- date: 26 June 2025
-  headline: "Our resident computer scientist, Tomás de la Cal, attended the 2025 SARTECO congress (XXXV Jornadas de Paralelismo, JP2025) in Seville, Spain from the 24th to the 27th of June. He defended his work 'Reestructurando dinámicamente la partición de datos para equilibrar la carga en sistemas heterogéneos distribuidos' in collaboration with the TRASGO research group."
-  image: TomasCongresoSARTECO2025.png
-  link: 
-
-- date: 19 June 2025
-  headline: "Ana Cisnal attended the 2025 IEEE CBMS (International Symposium on Computer-Based Medical Systems) in Madrid, Spain from the 18th to the 20th of June. She defended two works: 'Are PAT-based Models Suitable for Continuous Blood Pressure Monitoring in Ambulatory Settings?' in collaboration with the Spinal Cord Injury & Artificial Intelligence (SCAI) lab in ETH Zurich and Swiss Paraplegic Research, and 'Impact of Immersive and Non-Immersive Displays on User Performance in a Haptic-Enabled Virtual Reality Platform'"
-  image: AnaCongresoCBMS2025.png
-  link: 
-
-- date: 11 December 2024
-  headline: "Dr. Juan Carlos Fraile has successfully defended his accomplishments and has been promoted to the esteemed rank of Full Professor. This recognition comes after a rigorous evaluation of his contributions to the field, including research publications, innovative teaching methods, active involvement in academic committees and  knowledge transfer in line with the productive sector."
-  image: CatedraJuanCarlos.jpg
-  link: 
-
-- date: 13 November 2024
-  headline: "The student Diego Almendro, who was making his bachelor's thesis with us with the title 'Development and validation of haptic control of a finger rehabilitation device using EMG signals' has won the first prize of the University of Valladolid's poster contest"
-  image: DiegoAlmendroPremioPoster2024.png
-  link: <a href="https://www.eii.uva.es/noticias/Files/6667_0_317111859589380.pdf" target="_blank">Desarrollo y validación del control háptico de un dispositivo de rehabilitación de dedo mediante señales EMG, de Diego Almendro Wieczorek (Grado en Ingeniería Electrónica Industrial y Automática)</a>
-
-- date: 8 November 2024
-  headline: "We have attended the 6th International Conference on NeuroRehabilitation (ICNR2024) held in La Granja de San Ildefonso from the 5th to the 8th of November with the paper entitled 'Enhancing Robotic Rehabilitation with Bilateral Therapy using Leap Motion'"
-  image: AnaSegovia2024.jpg
-  link: <a href="https://2024.icneurorehab.org/" target="_blank">6ª Conferencia Internacional sobre NeuroRehabilitación (ICNR2024), Noviembre 2024</a>
-
-- date: 5 September 2024
-  headline: "Ana Cisnal receives the 2024 themed group Bioengineering award for the best doctoral thesis in Bioengineering and publishing in STAR"
-  image: AnaPremio2024.jpg
-  link: <a href="https://jautomatica.uma.es/2024/02/08/premios/" target="_blank">Premio GT Bioingeniería a la mejor Tesis Doctoral en Bioingeniería y publicación en STAR 2024</a>
 
 - date: 2 September 2024
   headline: "Research group participates in XLV Jornadas de Automática in Malaga"
@@ -67,12 +12,6 @@
   headline: "Research group participates in Robotics Symposium in Badajoz: Diego Benavides showcases an automatic and real-time integrable model for the localization of laparoscopic surgery tools"
   image: SimposioCEABadajoz2024.jpg
   link: <a href="https://eventos.unex.es/107983/section/49270/simposio-de-robotica-biongenieria-y-vision-por-computador-2024.html" target="_blank">Simposio de Robótica, Bioingeniería y Visión por Computador, Badajoz 2024</a>
-
-- date: 16 April 2024
-  headline: "Juan Carlos Fraile talks about Robhand rehabilitation therapies in national radio program 'Por tres razones'"
-  image: PorTresRazonesJC.jpg
-  link: <a href="https://www.rtve.es/play/audios/por-tres-razones/exoesqueleto-mano-neurodiversidad-serie-red-flags/16063634/" target="_blank">Exoesqueleto de mano […] (Por tres razones, RNE)</a> 
-  #spotify: <iframe style="border-radius:12px" src="https://www.rtve.es/drmn/embed/audio/16063634" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - date: 7 April 2024
   headline: "Regional newspaper 'El Norte de Castilla' revisits RobHand technology for hand rehabilitation, inspired by our post-COVID therapies article"
@@ -93,26 +32,6 @@
   link2: <a href="https://www.cyltv.es/Noticia/97E3B31F-03B5-652E-8A9AF199C8C2E2BF/Pacientes-con-secuelas-post-COVID-recuperan-el-70-de-la-movilidad-gracias-a-un-robot" target="_blank">CyLTV Regional News Broadcast</a>
   link3: <a href="https://www.cyltv.es/videoSH/e912a429-79d2-4192-ae8d-ae271bda962a/Un-exoesqueleto-de-mano-la-nueva-herramienta-que-ayuda-a-mejorar-la-movilidad-de-los-pacientes-covid" target="_blank">La 8 Valladolid Local News Broadcast</a>
   #link4: 
-
-
-- date: 19 September 2023
-  headline: "Ana Cisnal shines as she presents her groundbreaking Doctoral Thesis: Development of Biocooperative Control Strategies for Neuromotor Rehabilitation Robotic Platform"
-  image: DoctoradoAna.jpg
-  link: <a href="https://www.linkedin.com/posts/ana-cisnal-de-la-rica-877689b6_dear-linkedin-network-i-am-thrilled-to-activity-7112738981867323393--aTG?utm_source=share&utm_medium=member_desktop" target="_blank">Doctoral Thesis</a> 
-
-- date: 6 September 2023
-  headline: "Sharing Our Work: A Presentation on M3Rob - Robotic Wrist Rehabilitation Platform Design and Control Architecture at XLIV Jornadas de Automática 2023 in Zaragoza"
-  image: PosterJAuto23.png
-  link: <a href="https://xliv.jautomatica.es/agenda/contribuciones-seleccionadas#:~:text=Bioingenier%C3%ADa,and%20control%20architecture." target="_blank">XLIV Jornadas de Automática 2023</a>
-
-- date: 5 July 2023
-  headline: We have confirmed our attendance to XLIV Jornadas de Automática 2023 in Zaragoza.
-  link: <a href="https://xliv.jautomatica.es/" target="_blank">XLIV Jornadas de Automática 2023</a>
-
-- date: 14 June 2023
-  headline: We attended the XIII Jornadas Nacionales de Robótica and XIV Simposio CEA de Bioingeniería in Madrid.
-  link: <a href="https://www.ceautomatica.es/blog/2023/03/23/jornadas-nacionales-de-robotica-y-bioingenieria/" target="_blank">XIII Jornadas Nacionales de Robótica y Bioingeniería 2023</a>
-
 
 #- date: 13. December 2021
 #  headline: "We are launching the new website!"

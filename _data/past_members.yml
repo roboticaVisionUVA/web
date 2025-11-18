@@ -1,18 +1,18 @@
-- name: Borja Fernández Villar
-  photo: bfv.png
-  info: PhD student
-  email: gmail.com
-  number_educ: 3
-  education1: <a href="https://orcid.org/0000-0003-0090-3800">Link to ORCID</a>
-  education2: <a href="https://scholar.google.es/citations?user=ipBfmuQAAAAJ&hl=es">Link to Google Scholar</a>
-  education3: <a href="https://www.researchgate.net/profile/Borja-Fernandez-10">Link to ResearchGate</a>
+- name: Álvaro Correa Rosón
+  photo: alvaroC.png
+  info: Research Associate
+  email: ''
+  number_educ: 1
+  education1: <a href="https://portaldelaciencia.uva.es/investigadores/874123/detalle">Website</a>
 
-- name: Diego de las Heras Rebellón
-  photo: dhr.png
-  info: Research Assistant
-  email: gmail.com
-  number_educ: 0
-  education1: 
+#- name: Borja Fernández Villar
+#  photo: bfv.png
+#  info: PhD student
+#  email: gmail.com
+#  number_educ: 3
+#  education1: <a href="https://orcid.org/0000-0003-0090-3800">Link to ORCID</a>
+#  education2: <a href="https://scholar.google.es/citations?user=ipBfmuQAAAAJ&hl=es">Link to Google Scholar</a>
+#  education3: <a href="https://www.researchgate.net/profile/Borja-Fernandez-10">Link to ResearchGate</a>
 
 #- name: Hugo García Sanz
 #  photo: hgs.png
@@ -35,116 +35,23 @@
 #  number_educ: 0
 #  education1: 
 
-- name: Diego Almendro Wieczorek
-  photo: daw.png
-  info: Master student
-  email: 
-  number_educ: 0
-  education1: 
-
-#- name: Serafín Eiras Martín
-#  photo: sem.png
-#  info: Superior technician student
+#- name: Juan Granja Garijo
+#  photo: jg.png
+#  info: BSc student
 #  email: 
 #  number_educ: 0
 #  education1: 
 
-#- name: Eduardo de la Fuente Hernández
-#  photo: edh.png
-#  info: Superior technician student
+#- name: Guillermo Sánchez Brizuela 
+#  photo: gsb.jpg 
+#  info: Master Student, Research Assistant 
 #  email: 
-#  number_educ: 0
-#  education1: 
-
-- name: Miguel Veganzones Parellada
-  photo: mvl.png
-  info: Research Assistant
-  email: gmail.com
-  number_educ: 0
-  education1: 
-
-#- name: Andrea Pérez Valle
-#  photo: apv.jpg
-#  info: BSc student
-#  email: 
-#  number: 0
-
-#- name: Miguel Fernández Jaramillo
-#  photo: mfj.jpg
-#  info: BSc student
-#  email: 
-#  number: 0
-
-#- name: Miguel Flores Centeno
-#  photo: mfc.jpg
-#  info: BSc student
-#  email: 
-#  number: 0
-
-- name: Manuel Calderón Fraile
-  photo: mcf.jpg
-  info: BSc student
-  email: 
-  number: 0
-
-- name: Omaira Luz Tapias Diaz
-  photo: oltd.jpg
-  info: PhD Student
-  email: gmail.com
-  number_educ: 0
-  education1:
-
-- name: Daniel Antolínez López
-  photo: dal.png
-  info: Research Assistant
-  email: gmail.com
-  number_educ: 0
-  education1:
-
-- name: Gonzalo Alonso Alonso de Linaje
-  photo: gaal.png
-  info: PhD student, Research Associate
-  email: gmail.com
-  number_educ: 1
-  education1: <a href="https://orcid.org/0000-0001-6501-7215">Link to ORCID</a>
-
-- name: Juan Granja Garijo
-  photo: jg.png
-  info: BSc student
-  email: 
-  number_educ: 0
-  education1: 
-
-- name: Ángel Padilla Gutiérrez 
-  photo: apg.png 
-  info: BSc student 
-  number_educ: 0 
-  education1:
-
-- name: Alberto Fraile Luengo 
-  photo: ajf.jpg 
-  info: Laboratory Technician 
-  email:  
-  number_educ: 0 
-  education1: 
-
-- name: Guillermo Sánchez Brizuela 
-  photo: gsb.jpg 
-  info: Master Student, Research Assistant 
-  email: 
-  number_educ: 0 
-  education1:
+#  number_educ: 0 
+#  education1:
   
-- name: David sierra 
-  photo: ds.jpg 
-  info: PhD student, Research Associate 
-  email: 
-  number_educ: 0 
-  education1:
-
-- name: Lidia Santos 
-  photo: ls.jpg 
-  info: PhD student 
-  email: 
-  number_educ: 0 
-  education1:
+#- name: David sierra 
+#  photo: ds.jpg 
+#  info: PhD student, Research Associate 
+#  email: 
+#  number_educ: 0 
+#  education1:
