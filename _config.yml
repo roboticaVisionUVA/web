@@ -10,8 +10,8 @@ title: ITAP - Robotics & Computer vision research group
 email: ezalama@uva.es
 description: > # this means to ignore newlines until "baseurl:"
   Website of the ITAP Robotics & Computer vision research group
-baseurl: ""
-url: ""
+url: "https://roboticavisionuva.github.io"
+baseurl: "/web"   # si tu repo se llama web-robvision
 
 include:
   - .htaccess
