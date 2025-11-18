@@ -1,0 +1,76 @@
+- name: Eduardo Zalama Casanova
+  photo: ezalama.jpg
+  info: Full Professor
+  email: ''
+  number_educ: 4
+  education1: <a href="https://www.eii.uva.es/~eduzal/">Website</a>
+  education2: <a href="https://orcid.org/0000-0001-7283-5574">Link to ORCID</a>
+  education3: <a href="https://scholar.google.com/citations?hl=es&user=Y8TxaAYAAAAJ">Link to Google Scholar</a>
+  education4: <a href="https://www.researchgate.net/profile/Eduardo-Zalama">Link to ResearchGate</a>
+
+- name: Jaime Gómez García-Bermejo
+  photo: Jaime.JPG
+  info: Full Professor
+  email: ''
+  number_educ: 3
+  education1: <a href="https://www.eii.uva.es/Jaime.Gomez.GB/">Website</a>
+  education2: <a href="https://orcid.org/0000-0003-4763-5356">Link to ORCID</a>
+  education3: <a href="https://www.researchgate.net/profile/Jaime-Gomez-Garcia-Bermejo">Link to ResearchGate</a>
+
+- name: Jaime Duque Domingo
+  photo: jaime1.jpg
+  info: Full Professor
+  email: ''
+  number_educ: 4
+  education1: <a href="https://jaimeduque.uva.es/">Website</a>
+  education2: <a href="https://orcid.org/0000-0001-6649-5550">Link to ORCID</a>
+  education3: <a href="https://scholar.google.com/citations?hl=es&user=jF6zEHIAAAAJ">Link to Google Scholar</a>
+  education4: <a href="https://www.researchgate.net/profile/Jaime-Domingo">Link to ResearchGate</a>
+
+- name: Alberto Herreros López
+  photo: alberto.png
+  info: Associate Professor
+  email: ''
+  number_educ: 2
+  education1: <a href="https://www.itap.uva.es/ahl/">Website</a>
+  education2: <a href="https://orcid.org/0000-0002-0956-6030">Link to ORCID</a>
+
+- name: Miguel García Gómez
+  photo: Miguel.png
+  info: Associate Professor
+  email: ''
+  number_educ: 2
+  education1: <a href="https://orcid.org/0009-0007-2057-3753">Link to ORCID</a>
+  education2: <a href="https://scholar.google.com/citations?hl=en&user=aoOJgK4AAAAJ">Link to Google Scholar</a>
+
+- name: Sergio Merino Fidalgo
+  photo: sergio.jpg
+  info: Research Associate
+  email: ''
+  number_educ: 3
+  education1: <a href="https://portaldelaciencia.uva.es/investigadores/19371/detalle">Website</a>
+  education2: <a href="https://orcid.org/0009-0001-5392-7606">Link to ORCID</a>
+  education3: <a href="https://www.researchgate.net/scientific-contributions/Sergio-Merino-Fidalgo-2255341325">Link to ResearchGate</a>
+
+- name: Celia Sánchez Girón-Coca
+  photo: celia.png
+  info: Research Associate
+  email: ''
+  number_educ: 3
+  education1: <a href="https://portaldelaciencia.uva.es/investigadores/644056/detalle?lang=en">Website</a>
+  education2: <a href="https://orcid.org/0009-0007-1082-6219">Link to ORCID</a>
+  education3: <a href="https://www.researchgate.net/profile/Celia-Coca">Link to ResearchGate</a>
+
+- name: Álvaro Zamorano Casasola
+  photo: alvaro.png
+  info: Research Associate
+  email: ''
+  number_educ: 1
+  education1: <a href="https://portaldelaciencia.uva.es/investigadores/1377450/detalle">Website</a>
+
+- name: Álvaro Correa Rosón
+  photo: alvaroC.png
+  info: Research Associate
+  email: ''
+  number_educ: 1
+  education1: <a href="https://portaldelaciencia.uva.es/investigadores/874123/detalle">Website</a>

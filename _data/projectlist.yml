@@ -1,0 +1,135 @@
+# - title: <Project name>
+#   image: <image.png>
+#   description: <Descripcion>
+#   url: <page name>
+
+# Generado a partir de Projects.html
+
+- title: EIAROB
+  image: EIAROB.jpg
+  description: >
+    The development and experimentation proposed in “ECOSYSTEM OF AMBIENT
+    INTELLIGENCE FOR SUPPORTING LONG-TERM CARE AT HOME THROUGH THE USE OF SOCIAL
+    ROBOTS ()” is based on a methodology of open innovation and technological
+    co-creation with users to generate solutions that foster personal autonomy.
+    Recent advancements in healthcare have led to an unprecedented increase in
+    the number of older adults. Consequently, in recent years, interest in
+    assistive technologies has substantially grown, aimed at helping these
+    individuals remain active and live independently, either in their own homes
+    or integrated residential units within care centers. This project seeks to
+    advance the care and entertainment of older adults through a precise
+    combination of social robots, robotic systems for navigation and
+    manipulation, and ambient intelligence systems. EIAROB will be deployed in
+    real environments, such as residences and day centers, with significant
+    experimentation efforts in real operational environments. To achieve this,
+    the project will include researchers from the University of Valladolid and
+    social entities that work closely with older adults, as well as technology
+    companies that will support the development and scalability of the proposed
+    solutions. The project promotes the creation of a complete ecosystem that
+    integrates social robots and ambient intelligence to offer advanced services
+    and improve the quality of life of older adults, maintaining its leadership
+    in providing innovative services.
+  url: https://www.eiarob.es/
+  category: ''
+
+- title: Rosogar
+  image: rosogar.jpg
+  description: >
+    Recent advances in health care have resulted in an unprecedented increase in
+    the number of elderly people. Consequently, there is a growing interest in
+    assistive technologies that help these people remain active and live
+    independently, in their own home or in coexistence units integrated in
+    residential centres. Within this context, ROSOGAR aims to explore new
+    solutions based on social robots and other robotic and monitoring systems to
+    support the provision of social services, with a special emphasis on long-
+    term care and domestic environments. The project involves the development,
+    integration and validation of robotic platforms and intelligent environments
+    in real scenarios, in collaboration with social service providers and
+    research centres. Its goal is to improve the autonomy and well-being of
+    older people, as well as to support professionals and caregivers through
+    technology. (Developed at CARTIF)
+  url: https://www.itap.uva.es/pid2021-123020ob-i00/
+  category: ''
+
+- title: Red 5R
+  image: red5r.jpg
+  description: >
+    The 5R Project, funded by Spain's Ministry of Economy and Competitiveness,
+    focuses on developing technologies and methodologies that support the
+    transformation of production systems towards smarter, more flexible and
+    sustainable manufacturing. The project promotes the integration of
+    automation, robotics, data analytics and cyber-physical systems in industry.
+    Its main goals include improving the efficiency and adaptability of
+    production lines, facilitating human-robot collaboration and introducing new
+    approaches to maintenance and quality control. The work includes
+    demonstration pilots in real industrial environments to validate the
+    developed solutions. (Developed at CARTIF)
+  url: https://red5r.es/
+  category: ''
+
+- title: SRURAL
+  image: srural.jpg
+  description: >
+    SRURAL aims to reduce the digital divide between urban and rural
+    environments by deploying advanced ICT infrastructures and services in rural
+    areas. The project focuses on smart territories, using sensor networks, data
+    platforms and communication technologies to improve key sectors such as
+    agriculture, environment, energy and tourism. It seeks to enhance the
+    quality of life of rural populations, promote sustainable development and
+    support local administrations in decision-making. (Developed at CARTIF)
+  url: https://srural.es/
+  category: ''
+
+- title: AGROVIS
+  image: AGROVIS.jpg
+  description: >
+    AGROVIS develops advanced computer vision and artificial intelligence
+    systems for quality control and process monitoring in the agri-food sector.
+    The project addresses tasks such as visual inspection, defect detection,
+    classification and traceability of products, with the aim of increasing
+    efficiency and ensuring food safety. The solutions are designed to be
+    integrated into production lines and work in real time, supporting both
+    large industries and small and medium-sized enterprises. (Developed at CARTIF)
+  url: https://www.cartif.es/agrovis/
+  category: ''
+
+- title: AIROSO
+  image: AIROSO.jpg
+  description: >
+    AIROSO is a project focused on the use of robotics and intelligent systems
+    for the care of dependent people, particularly in socio-health environments
+    such as nursing homes and centres for the elderly. The project combines
+    social robots, service robots and ambient intelligence to offer support in
+    daily activities, cognitive stimulation and monitoring of users' well-being.
+    It has been recognised by the DomusVi Foundation for its contribution to the
+    socio-health sector, highlighting its potential impact on the quality of
+    life of dependent people and the work of professionals. (Developed at CARTIF)
+  url: https://www.cartif.es/la-fundacion-domusvi-premia-el-proyecto-de-cartif-airoso-por-su-contribucion-al-sector-sociosanitario/
+  category: ''
+
+- title: ROASIS
+  image: roasis.jpg
+  description: >
+    ROASIS focuses on the design and deployment of robotic and sensing systems
+    that support care for elderly and dependent people in their own homes or
+    residential environments. The project integrates mobile platforms, social
+    robots and monitoring technologies to detect risky situations, remind users
+    of tasks and therapies and provide cognitive and social stimulation. It aims
+    to create safer, more supportive living environments that promote autonomy
+    and delay the need for institutionalization. (Developed at CARTIF)
+  url: https://www.itap.uva.es/roasis/
+  category: ''
+
+- title: RURITAGE
+  image: RU.jpg
+  description: >
+    The RURITAGE project, funded by the European Union's Horizon 2020 program,
+    focuses on rural regeneration through cultural and natural heritage (CNH). It
+    identifies 13 rural areas as Role Models, showcasing successful CNH-driven
+    regeneration in six innovation areas: Pilgrimage, Resilience, Local Food,
+    Landscape, Management, Migration, and Art & Festivals. These best practices
+    are transferred to six Replicators, rural territories developing their own
+    heritage-led strategies to enhance skills, knowledge, and capacity building.
+    (Developed at CARTIF)
+  url: https://www.cartif.es/en/ruritage-en/
+  category: ''

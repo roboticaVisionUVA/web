@@ -1,0 +1,263 @@
+# - title: "."
+#  url: 
+#  author: .
+#  tutor: .
+#  year: .
+#  studies: .
+#  state: 0
+      # state indica si está en curso (0), terminado sin vínculo (1) o terminado y publicado (2)
+
+
+# presentados 2025
+
+# state indica si está en curso (0), terminado sin vínculo (1) o terminado y publicado (2)
+
+# state indica si está en curso (0), terminado sin vínculo (1) o terminado y publicado (2)
+
+- title: Desarrollo de sistemas de interacción para el robot NAO
+  url: https://uvadoc.uva.es/handle/10324/69213
+  author: Zamorano Casasola, Alvaro
+  tutor: Eduardo Zalama
+  year: '2024'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de sistema de asistente por voz para control de un robot móvil
+  url: https://uvadoc.uva.es/handle/10324/69360
+  author: Nieto Ramos, José Gabriel
+  tutor: Eduardo Zalama, Raúl Gómez Ramos
+  year: '2024'
+  studies: ''
+  state: 2
+
+- title: Desarrollo precomercial de un andador asistivo, orientado a la vida independiente de las personas mayores
+  url: https://uvadoc.uva.es/handle/10324/71199
+  author: Villadangos González, Andrea
+  tutor: Eduardo Zalama,Pablo Francisco Viñas Noseda
+  year: '2023'
+  studies: ''
+  state: 2
+
+- title: Robot para la limpieza de cristales en fachadas de edificios
+  url: https://uvadoc.uva.es/handle/10324/57274
+  author: Santamaria Morón, Sergio
+  tutor: Eduardo Zalama
+  year: '2022'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de un sistema de Visión Artificial para ayuda a personas con dificultad motora en las extremidades superiores
+  url: https://uvadoc.uva.es/handle/10324/53837
+  author: Bouaouda, Smail
+  tutor: Eduardo Zalama, Jaime Gómez García-Bermejo
+  year: '2022'
+  studies: ''
+  state: 2
+
+- title: Sistema de navegación autónoma de robot externo e integración de adquisiciones de sensores ECG y EMG
+  url: https://uvadoc.uva.es/handle/10324/54269
+  author: Villa, Álvaro
+  tutor: Eduardo Zalama
+  year: '2022'
+  studies: ''
+  state: 2
+
+- title: Sistema de reconocimiento de actividades para el cuidado de personas ancianas independientes en su entorno domiciliario
+  url: https://uvadoc.uva.es/handle/10324/48084
+  author: Álvarez Asensio, Juan
+  tutor: Eduardo Zalama
+  year: '2021'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de un sistema de interacción basado en Google Home y Dialog Flow
+  url: https://uvadoc.uva.es/handle/10324/46488
+  author: Santamarta Martín, Jaime
+  tutor: Eduardo Zalama
+  year: '2021'
+  studies: ''
+  state: 2
+
+- title: Diseño de robots flexibles mediante neumática de baja presión.
+  url: https://uvadoc.uva.es/handle/10324/51898
+  author: Villagarcía Martín, Carlos
+  tutor: Eduardo Zalama
+  year: '2021'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de una cabeza robótica con alta capacidad gestual
+  url: https://uvadoc.uva.es/handle/10324/40511
+  author: Román Ortega, Juan Antonio
+  tutor: Eduardo Zalama
+  year: '2019'
+  studies: ''
+  state: 2
+
+- title: Robot de cables para la operación en superficies verticales
+  url: https://uvadoc.uva.es/handle/10324/31152
+  author: Gómez Ramos, Raúl
+  tutor: Eduardo Zalama
+  year: '2018'
+  studies: ''
+  state: 2
+
+- title: Diseño de un sistema de almacenamiento automático mediante Arduino
+  url: https://uvadoc.uva.es/handle/10324/25358
+  author: Alonso Hermosilla, Alfredo
+  tutor: Eduardo Zalama
+  year: '2017'
+  studies: ''
+  state: 2
+
+- title: Integración y puesta en marcha de un robot social asistencial
+  url: https://uvadoc.uva.es/handle/10324/25392
+  author: Capellán Sastre, Enrique
+  tutor: Eduardo Zalama
+  year: '2017'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de un sistema de control de un robot móvil
+  url: https://uvadoc.uva.es/handle/10324/25547
+  author: Jiménez Jiménez, Carlos
+  tutor: Eduardo Zalama
+  year: '2017'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de una impresora 3D de material de construcción para la rehabilitación de fachadas de edificios
+  url: https://uvadoc.uva.es/handle/10324/18658
+  author: Hernández Pina, Daniel
+  tutor: Eduardo Zalama
+  year: '2016'
+  studies: ''
+  state: 2
+
+- title: Control de robots autónomos mediante microcontrolador Arduino
+  url: https://uvadoc.uva.es/handle/10324/14612
+  author: Misiego López, Ana
+  tutor: Eduardo Zalama, Jaime Gómez García-Bermejo
+  year: '2015'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de un sistema de Visión para la monitorización de operaciones manuales
+  url: https://uvadoc.uva.es/handle/10324/17051
+  author: Cantera Pérez, Rodrigo
+  tutor: Eduardo Zalama, Jaime Gómez García-Bermejo
+  year: '2015'
+  studies: ''
+  state: 2
+
+- title: SACARINO. Diseño de un robot social interactivo
+  url: https://uvadoc.uva.es/handle/10324/17778
+  author: Botrán Herrero, Tamara
+  tutor: Eduardo Zalama
+  year: '2015'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de un sistema de navegación para un robot móvil
+  url: https://uvadoc.uva.es/handle/10324/12993
+  author: Blanco Abia, Cristina
+  tutor: Eduardo Zalama
+  year: '2014'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de un sistema de visión 3D para su integración en un robot móvil social
+  url: https://uvadoc.uva.es/handle/10324/14803
+  author: Juárez Sánchez, Alexis
+  tutor: Eduardo Zalama, Jaime Gómez García-Bermejo
+  year: '2014'
+  studies: ''
+  state: 2
+
+- title: Sistema de ayuda a la conducción basado en la estimación del estado emocional del conductor
+  url: https://uvadoc.uva.es/handle/10324/69208
+  author: Lera García, Alejandro
+  tutor: Eusebio de la Fuente López, Ana Cisnal de la Rica
+  year: '2023'
+  studies: ''
+  state: 2
+
+- title: Desarrollo de un sistema de adquisición de señales de EEG para una interfaz de control de juegos
+  url: https://uvadoc.uva.es/handle/10324/59004
+  author: Mosén Fernández, Alejandro
+  tutor: Eusebio de la Fuente López, Ana Cisnal de la Rica
+  year: '2022'
+  studies: ''
+  state: 2
+
+- title: Aplicación Android para la gestión de terapias en una plataforma de neurorrehabilitación pediátrica
+  url: https://uvadoc.uva.es/handle/10324/59006
+  author: García Gómez, Miguel
+  tutor: Eusebio de la Fuente López, Ana Cisnal de la Rica
+  year: '2022'
+  studies: ''
+  state: 2
+
+- title: Sistema de captura de movimiento para miembro superior orientado a neurorrehabilitación
+  url: https://uvadoc.uva.es/handle/10324/56524
+  author: Álvarez Álvarez, Patricia
+  tutor: Eusebio de la Fuente López, Ana Cisnal de la Rica
+  year: '2022'
+  studies: ''
+  state: 2
+
+- title: Sistema Android para rehabilitación de muñeca
+  url: https://uvadoc.uva.es/handle/10324/47231
+  author: Recio Pintor, Ana María
+  tutor: Eusebio de la Fuente López
+  year: '2021'
+  studies: ''
+  state: 2
+
+- title: Sistema Android para rehabilitación de rodilla
+  url: https://uvadoc.uva.es/handle/10324/41135
+  author: García Díaz, Andrea
+  tutor: Eusebio de la Fuente López
+  year: '2020'
+  studies: ''
+  state: 2
+
+- title: Sistema Android para la monitorización del proceso de rehabilitación
+  url: https://uvadoc.uva.es/handle/10324/40842
+  author: Díez Villa, María
+  tutor: Eusebio de la Fuente López
+  year: '2020'
+  studies: ''
+  state: 2
+
+- title: Sistema de Entrenamiento Cognitivo con Realidad Aumentada para Pacientes Pediátricos
+  url: https://uvadoc.uva.es/handle/10324/41176
+  author: Bayón Díaz, Miguel
+  tutor: Eusebio de la Fuente López
+  year: '2020'
+  studies: ''
+  state: 2
+
+- title: Sistema de Adquisición de Señales Fisiológicas para la Monitorización de Pacientes
+  url: https://uvadoc.uva.es/handle/10324/25548
+  author: Martín Alonso, Sergio
+  tutor: Eusebio de la Fuente López
+  year: '2017'
+  studies: ''
+  state: 2
+
+- title: Sistema de reconocimiento de gestos de la lengua para interfaces hombre-máquina
+  url: https://uvadoc.uva.es/handle/10324/13175
+  author: Ojosnegros Ramos, Eduardo
+  tutor: Jaime Gómez García-Bermejo
+  year: '2014'
+  studies: ''
+  state: 2
+
+- title: Monitorización de la actividad de personas mayores mediante técnicas de aprendizaje profundo.
+  url: https://uvadoc.uva.es/handle/10324/61345
+  author: Sánchez-Girón Coca, Celia
+  tutor: Jaime Gómez García-Bermejo, Javier Pérez Turiel
+  year: '2023'
+  studies: ''
+  state: 2
