@@ -38,14 +38,14 @@
     display: "(2024) Electronics, 13(17), 3365"
   highlight: 0
 
-- title: "Development of a human–robot interface for the trajectory generation of a collaborative robot using RGB-D cameras"
+- title: "Development of a Human–Robot Interface for Cobot Trajectory Planning Using Mixed Reality"
   type: journal
   image: dummy.jpg
   description: ""
-  authors: "García-Gómez, M.; Duque-Domingo, J.; Zalama, E.; Gómez-García-Bermejo, J."
+  authors: "Calderón-Sesmero, R.; Duque-Domingo, J.; Zalama, E.; Gómez-García-Bermejo, J."
   link:
-    url: "https://doi.org/10.3390/electronics13010085"
-    display: "(2024) Electronics, 13(1), 85"
+    url: "https://doi.org/10.3390/electronics13030571"
+    display: "(2024) Electronics, 13(3), 571"
   highlight: 0
 
 - title: "An unsupervised method to recognise human activity at home using non-intrusive sensors"
