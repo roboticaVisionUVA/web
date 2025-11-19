@@ -11,217 +11,196 @@
 # Generado automáticamente a partir de Education.html (proyectos completos)
 
 - name: Zamorano Casasola, Alvaro
-  photo: ''
   info: Student (project year 2024)
   email: ''
   number_educ: 1
   education1: Desarrollo de sistemas de interacción para el robot NAO
 
 - name: Nieto Ramos, José Gabriel
-  photo: ''
   info: Student (project year 2024)
   email: ''
   number_educ: 1
   education1: Desarrollo de sistema de asistente por voz para control de un robot móvil
 
 - name: Villadangos González, Andrea
-  photo: ''
   info: Student (project year 2023)
   email: ''
   number_educ: 1
   education1: Desarrollo precomercial de un andador asistivo, orientado a la vida independiente de las personas mayores
 
 - name: Santamaria Morón, Sergio
-  photo: ''
   info: Student (project year 2022)
   email: ''
   number_educ: 1
   education1: Robot para la limpieza de cristales en fachadas de edificios
 
 - name: Bouaouda, Smail
-  photo: ''
   info: Student (project year 2022)
   email: ''
   number_educ: 1
   education1: Desarrollo de un sistema de Visión Artificial para ayuda a personas con dificultad motora en las extremidades superiores
 
 - name: Villa, Álvaro
-  photo: ''
   info: Student (project year 2022)
   email: ''
   number_educ: 1
   education1: Sistema de navegación autónoma de robot externo e integración de adquisiciones de sensores ECG y EMG
 
 - name: Álvarez Asensio, Juan
-  photo: ''
   info: Student (project year 2021)
   email: ''
   number_educ: 1
   education1: Sistema de reconocimiento de actividades para el cuidado de personas ancianas independientes en su entorno domiciliario
 
 - name: Santamarta Martín, Jaime
-  photo: ''
   info: Student (project year 2021)
   email: ''
   number_educ: 1
   education1: Desarrollo de un sistema de interacción basado en Google Home y Dialog Flow
 
 - name: Villagarcía Martín, Carlos
-  photo: ''
   info: Student (project year 2021)
   email: ''
   number_educ: 1
   education1: Diseño de robots flexibles mediante neumática de baja presión.
 
 - name: Román Ortega, Juan Antonio
-  photo: ''
   info: Student (project year 2019)
   email: ''
   number_educ: 1
   education1: Desarrollo de una cabeza robótica con alta capacidad gestual
 
 - name: Gómez Ramos, Raúl
-  photo: ''
   info: Student (project year 2018)
   email: ''
   number_educ: 1
   education1: Robot de cables para la operación en superficies verticales
 
 - name: Alonso Hermosilla, Alfredo
-  photo: ''
   info: Student (project year 2017)
   email: ''
   number_educ: 1
   education1: Diseño de un sistema de almacenamiento automático mediante Arduino
 
 - name: Capellán Sastre, Enrique
-  photo: ''
   info: Student (project year 2017)
   email: ''
   number_educ: 1
   education1: Integración y puesta en marcha de un robot social asistencial
 
 - name: Jiménez Jiménez, Carlos
-  photo: ''
   info: Student (project year 2017)
   email: ''
   number_educ: 1
   education1: Desarrollo de un sistema de control de un robot móvil
 
 - name: Hernández Pina, Daniel
-  photo: ''
   info: Student (project year 2016)
   email: ''
   number_educ: 1
   education1: Desarrollo de una impresora 3D de material de construcción para la rehabilitación de fachadas de edificios
 
 - name: Misiego López, Ana
-  photo: ''
   info: Student (project year 2015)
   email: ''
   number_educ: 1
   education1: Control de robots autónomos mediante microcontrolador Arduino
 
 - name: Cantera Pérez, Rodrigo
-  photo: ''
   info: Student (project year 2015)
   email: ''
   number_educ: 1
   education1: Desarrollo de un sistema de Visión para la monitorización de operaciones manuales
 
 - name: Botrán Herrero, Tamara
-  photo: ''
   info: Student (project year 2015)
   email: ''
   number_educ: 1
   education1: SACARINO. Diseño de un robot social interactivo
 
 - name: Blanco Abia, Cristina
-  photo: ''
   info: Student (project year 2014)
   email: ''
   number_educ: 1
   education1: Desarrollo de un sistema de navegación para un robot móvil
 
 - name: Juárez Sánchez, Alexis
-  photo: ''
   info: Student (project year 2014)
   email: ''
   number_educ: 1
   education1: Desarrollo de un sistema de visión 3D para su integración en un robot móvil social
 
 - name: Lera García, Alejandro
-  photo: ''
   info: Student (project year 2023)
   email: ''
   number_educ: 1
   education1: Sistema de ayuda a la conducción basado en la estimación del estado emocional del conductor
 
 - name: Mosén Fernández, Alejandro
-  photo: ''
+
   info: Student (project year 2022)
   email: ''
   number_educ: 1
   education1: Desarrollo de un sistema de adquisición de señales de EEG para una interfaz de control de juegos
 
 - name: García Gómez, Miguel
-  photo: ''
+
   info: Student (project year 2022)
   email: ''
   number_educ: 1
   education1: Aplicación Android para la gestión de terapias en una plataforma de neurorrehabilitación pediátrica
 
 - name: Álvarez Álvarez, Patricia
-  photo: ''
+
   info: Student (project year 2022)
   email: ''
   number_educ: 1
   education1: Sistema de captura de movimiento para miembro superior orientado a neurorrehabilitación
 
 - name: Recio Pintor, Ana María
-  photo: ''
+
   info: Student (project year 2021)
   email: ''
   number_educ: 1
   education1: Sistema Android para rehabilitación de muñeca
 
 - name: García Díaz, Andrea
-  photo: ''
+
   info: Student (project year 2020)
   email: ''
   number_educ: 1
   education1: Sistema Android para rehabilitación de rodilla
 
 - name: Díez Villa, María
-  photo: ''
+
   info: Student (project year 2020)
   email: ''
   number_educ: 1
   education1: Sistema Android para la monitorización del proceso de rehabilitación
 
 - name: Bayón Díaz, Miguel
-  photo: ''
+
   info: Student (project year 2020)
   email: ''
   number_educ: 1
   education1: Sistema de Entrenamiento Cognitivo con Realidad Aumentada para Pacientes Pediátricos
 
 - name: Martín Alonso, Sergio
-  photo: ''
+
   info: Student (project year 2017)
   email: ''
   number_educ: 1
   education1: Sistema de Adquisición de Señales Fisiológicas para la Monitorización de Pacientes
 
 - name: Ojosnegros Ramos, Eduardo
-  photo: ''
+
   info: Student (project year 2014)
   email: ''
   number_educ: 1
   education1: Sistema de reconocimiento de gestos de la lengua para interfaces hombre-máquina
 
 - name: Sánchez-Girón Coca, Celia
-  photo: ''
+
   info: Student (project year 2023)
   email: ''
   number_educ: 1
