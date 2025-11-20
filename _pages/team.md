@@ -10,8 +10,17 @@ permalink: /team/
 
 # Group Members
 
+<h1 style="text-align:center">
+<a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.JPG" style="width:80%;">
 
-<center>
+  <div>
+
+  Team pictures        →
+
+  </div></a>
+  </h1>
+
+<!-- <center>
   <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.JPG" style="width:80%;">
 
   <div>
@@ -20,7 +29,7 @@ permalink: /team/
 
   </div></a>
 
-</center>
+</center> -->
 
 <!--
 
@@ -150,14 +159,24 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-<center>
+<h1 style="text-align:center">
+ <a href="/team/past">
+  <div>
+
+  Past members        →
+
+  </div></a>
+  </h1>
+
+
+<!-- <center>
   <a href="/team/past">
   <div>
 
   Past members        →
 
   </div></a>
-</center>
+</center> -->
 
 <br>
 
