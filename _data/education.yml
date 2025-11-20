@@ -14,250 +14,338 @@
 
 # state indica si está en curso (0), terminado sin vínculo (1) o terminado y publicado (2)
 
+- title: Captura y anotación de imágenes ópticas, térmicas y de profundidad para el análisis del comportamiento humano.
+  url: ''
+  author: David Martín García
+  tutor: Jaime Gómez García-Bermejo y Jaime Duque Domingo
+  year: '2025'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 1
+
+- title: Desarrollo de un sistema de agarre de objetos en un robot mediante visión artificial
+  url: ''
+  author: García Portela, Alba
+  tutor: Jaime Gómez García-Bermejo y Jaime Duque Domingo
+  year: '2025'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 1
+
+- title: Caracterización de la postura de personas en entorno doméstico mediante Visión Artificial
+  url: ''
+  author: Rubén Martín García
+  tutor: Jaime Gómez García-Bermejo y Jaime Duque Domingo
+  year: '2025'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 1
+
+- title: Automatización de un prototipo para separar las celdas de las baterías de los vehículos eléctricos
+  url: ''
+  author: María Muñoz Samaniego
+  tutor: Jaime Duque Domingo (externo: Fernando Gayubo Rojo)
+  year: '2025'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 1
+
+- title: Identificación de personas a partir del esquema corporal y patrones de movimiento
+  url: ''
+  author: Eneko Nieto González
+  tutor: Jaime Gómez García-Bermejo y Jaime Duque Domingo
+  year: '2025'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 1
+
+- title: Desarrollo de un dron con capacidad de transmisión de vídeo, control y procesamiento desde un ordenador.
+  url: ''
+  author: Álex Diez Pajón
+  tutor: Jaime Duque Domingo
+  year: '2024'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 1
+
 - title: Desarrollo de sistemas de interacción para el robot NAO
   url: https://uvadoc.uva.es/handle/10324/69213
-  author: Zamorano Casasola, Alvaro
+  author: Alvaro Zamorano Casasola
   tutor: Eduardo Zalama
   year: '2024'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Desarrollo de sistema de asistente por voz para control de un robot móvil
   url: https://uvadoc.uva.es/handle/10324/69360
-  author: Nieto Ramos, José Gabriel
-  tutor: Eduardo Zalama, Raúl Gómez Ramos
+  author: José Gabriel Nieto Ramos
+  tutor: Eduardo Zalama y Raúl Gómez Ramos
   year: '2024'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
+  state: 2
+
+- title: Creación de sinóptico general de la zona de introducción de caucho en Taller de Mezclas Michelín Valladolid
+  url: ''
+  author: Álvaro Gregorio Maroto
+  tutor: Jaime Duque Domingo
+  year: '2024'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 1
+
+- title: Desarrollo de estrategias de control de fuerzas y movilidad autónoma para robots colaborativos en cirugia laparoscópica robotizada.
+  url: ''
+  author: Carlos Fontúrbel Mediavilla
+  tutor: Javier Pérez Turiel y Jaime Duque Domingo
+  year: '2024'
+  studies: Máster en Ingeniería Biomédica
+  state: 1
+
+- title: Desarrollo de un sistema de teleoperación de un Robot Colaborativo mediante Realidad Mixta
+  url: ''
+  author: Miguel García Gómez
+  tutor: Eduardo Zalama y Jaime Duque Domingo
+  year: '2024'
+  studies: Máster en Ingeniería Industrial
+  state: 1
+
+- title: Desarrollo e implementación de un sistema de navegación y asistencia a personas mayores en el robot social Temi.
+  url: ''
+  author: Celia Sánchez-Girón Coca
+  tutor: Jaime Gómez García-Bermejo y Jaime Duque Domingo
+  year: '2024'
+  studies: Máster en Ingeniería Biomédica
+  state: 1
+
+- title: Desarrollo de una Aplicación Android para el Control de Entornos Inteligentes mediante el Reconocimiento Visual de Gestos Faciales.
+  url: https://uvadoc.uva.es/handle/10324/69208
+  author: Adrián Santiago Blanco Bezos
+  tutor: Jaime Gómez García-Bermejo y Raúl Gómez Ramos
+  year: '2024'
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
+  state: 2
+
+- title: Teleoperación de un robot humanoide mediante gafas de realidad virtual.
+  url: https://uvadoc.uva.es/handle/10324/59006
+  author: David Álvarez Gil
+  tutor: Jaime Gómez García-Bermejo y Jaime Duque Domingo
+  year: '2023'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
   state: 2
 
 - title: Desarrollo precomercial de un andador asistivo, orientado a la vida independiente de las personas mayores
   url: https://uvadoc.uva.es/handle/10324/71199
-  author: Villadangos González, Andrea
-  tutor: Eduardo Zalama,Pablo Francisco Viñas Noseda
+  author: Andrea Villadangos González
+  tutor: Eduardo Zalama y Pablo Francisco Viñas Noseda
   year: '2023'
   studies: ''
   state: 2
 
+- title: Monitorización de la actividad de personas mayores mediante técnicas de aprendizaje profundo.
+  url: https://uvadoc.uva.es/handle/10324/61345
+  author: Celia Sánchez-Girón Coca
+  tutor: Javier Pérez Turiel y Jaime Duque Domingo
+  year: '2023'
+  studies: Grado en Ingeniería Biomédica
+  state: 2
+
+- title: Desarrollo de un sistema de realidad mixta para la robótica colaborativa
+  url: https://uvadoc.uva.es/handle/10324/59004
+  author: Raúl Calderón Sesmero
+  tutor: Jaime Gómez García-Bermejo y Jaime Duque Domingo
+  year: '2023'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 2
+
+- title: Aplicación de la visión artificial al ámbito biosanitario
+  url: ''
+  author: Eva Luengo Gutiérrez
+  tutor: Jaime Gómez García-Bermejo y Jaime Duque Domingo
+  year: '2023'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 1
+
+- title: Evaluación en línea del grado de involucración del usuario en actividades de interacción humano-robot
+  url: https://uvadoc.uva.es/handle/10324/56524
+  author: Mario Castañeda González
+  tutor: Jaime Gómez García-Bermejo y Jaime Duque Domingo
+  year: '2022'
+  studies: Grado en Ingeniería en Electrónica Industrial y Automática
+  state: 1
+
 - title: Robot para la limpieza de cristales en fachadas de edificios
   url: https://uvadoc.uva.es/handle/10324/57274
-  author: Santamaria Morón, Sergio
+  author: Sergio Santamaria Morón
   tutor: Eduardo Zalama
   year: '2022'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Desarrollo de un sistema de Visión Artificial para ayuda a personas con dificultad motora en las extremidades superiores
   url: https://uvadoc.uva.es/handle/10324/53837
-  author: Bouaouda, Smail
-  tutor: Eduardo Zalama, Jaime Gómez García-Bermejo
+  author: Smail Bouaouda
+  tutor: Eduardo Zalama y Jaime Gómez García-Bermejo
   year: '2022'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
-- title: Sistema de navegación autónoma de robot externo e integración de adquisiciones de sensores ECG y EMG
+- title: Desarrollo de un sistema de navegación para un robot social
   url: https://uvadoc.uva.es/handle/10324/54269
-  author: Villa, Álvaro
-  tutor: Eduardo Zalama
+  author: Miguel García Gómez
+  tutor: Eduardo Zalama y Raúl Gómez Ramos
   year: '2022'
   studies: ''
   state: 2
 
 - title: Sistema de reconocimiento de actividades para el cuidado de personas ancianas independientes en su entorno domiciliario
   url: https://uvadoc.uva.es/handle/10324/48084
-  author: Álvarez Asensio, Juan
+  author: Juan Álvarez Asensio
   tutor: Eduardo Zalama
   year: '2021'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Desarrollo de un sistema de interacción basado en Google Home y Dialog Flow
   url: https://uvadoc.uva.es/handle/10324/46488
-  author: Santamarta Martín, Jaime
+  author: Jaime Santamarta Martín
   tutor: Eduardo Zalama
   year: '2021'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Diseño de robots flexibles mediante neumática de baja presión.
   url: https://uvadoc.uva.es/handle/10324/51898
-  author: Villagarcía Martín, Carlos
+  author: Carlos Villagarcía Martín
   tutor: Eduardo Zalama
   year: '2021'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
+  state: 2
+
+- title: Aplicación de las imágenes y los datos que provee la red de satélites del programa COPERNICUS a la preservación, monitorización y gestión del Patrimonio Cultural.
+  url: https://uvadoc.uva.es/handle/10324/47231
+  author: Ignacio Bujedo Esteban
+  tutor: Jaime Gómez García-Bermejo y Pedro Martín Lerones
+  year: '2021'
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
+  state: 2
+
+- title: Sistema conversacional de ayuda a personas mayores basado en Dialogflow.
+  url: https://uvadoc.uva.es/handle/10324/41135
+  author: Víctor Gobernado Rodríguez
+  tutor: Jaime Gómez García-Bermejo
+  year: '2020'
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
+  state: 2
+
+- title: Desarrollo de un avatar virtual para su integración en una cabeza robótica.
+  url: https://uvadoc.uva.es/handle/10324/40842
+  author: Daniel Álvarez Pérez 
+  tutor: Jaime Gómez García-Bermejo
+  year: '2020'
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
+  state: 2
+
+- title: Puesta en servicio de un robot social y desarrollo de un conjunto de herramientas de ayuda asistencial.
+  url: https://uvadoc.uva.es/handle/10324/41176
+  author: Miguel Izquierdo Gómez
+  tutor: Jaime Gómez García-Bermejo
+  year: '2020'
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Desarrollo de una cabeza robótica con alta capacidad gestual
   url: https://uvadoc.uva.es/handle/10324/40511
-  author: Román Ortega, Juan Antonio
+  author: Juan Antonio Román Ortega
   tutor: Eduardo Zalama
   year: '2019'
-  studies: ''
+  studies: 'Grado en Ingeniería Mecánica'
   state: 2
 
 - title: Robot de cables para la operación en superficies verticales
   url: https://uvadoc.uva.es/handle/10324/31152
-  author: Gómez Ramos, Raúl
+  author: Raúl Gómez Ramos
   tutor: Eduardo Zalama
   year: '2018'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
+  state: 2
+
+- title: Sistema de interacción visual para un robot social.
+  url: https://uvadoc.uva.es/handle/10324/25548
+  author: Mario Domínguez López
+  tutor: Jaime Gómez García-Bermejo
+  year: '2017'
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Diseño de un sistema de almacenamiento automático mediante Arduino
   url: https://uvadoc.uva.es/handle/10324/25358
-  author: Alonso Hermosilla, Alfredo
+  author: Alfredo Alonso Hermosilla
   tutor: Eduardo Zalama
   year: '2017'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Integración y puesta en marcha de un robot social asistencial
   url: https://uvadoc.uva.es/handle/10324/25392
-  author: Capellán Sastre, Enrique
+  author: Enrique Capellán Sastre
   tutor: Eduardo Zalama
   year: '2017'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Desarrollo de un sistema de control de un robot móvil
   url: https://uvadoc.uva.es/handle/10324/25547
-  author: Jiménez Jiménez, Carlos
+  author: Carlos Jiménez Jiménez
   tutor: Eduardo Zalama
   year: '2017'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Desarrollo de una impresora 3D de material de construcción para la rehabilitación de fachadas de edificios
   url: https://uvadoc.uva.es/handle/10324/18658
-  author: Hernández Pina, Daniel
+  author: Daniel Hernández Pina 
   tutor: Eduardo Zalama
   year: '2016'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Control de robots autónomos mediante microcontrolador Arduino
   url: https://uvadoc.uva.es/handle/10324/14612
-  author: Misiego López, Ana
-  tutor: Eduardo Zalama, Jaime Gómez García-Bermejo
+  author: Ana Misiego López
+  tutor: Eduardo Zalama y Jaime Gómez García-Bermejo
   year: '2015'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: Desarrollo de un sistema de Visión para la monitorización de operaciones manuales
   url: https://uvadoc.uva.es/handle/10324/17051
-  author: Cantera Pérez, Rodrigo
-  tutor: Eduardo Zalama, Jaime Gómez García-Bermejo
+  author: Rodrigo Cantera Pérez
+  tutor: Jaime Gómez García-Bermejo y Eduardo Zalama
   year: '2015'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
 - title: SACARINO. Diseño de un robot social interactivo
   url: https://uvadoc.uva.es/handle/10324/17778
-  author: Botrán Herrero, Tamara
+  author: Tamara Botrán Herrero 
   tutor: Eduardo Zalama
   year: '2015'
-  studies: ''
+  studies: 'Grado en Ingeniería en Diseño Industrial y Desarrollo de Producto'
   state: 2
 
 - title: Desarrollo de un sistema de navegación para un robot móvil
   url: https://uvadoc.uva.es/handle/10324/12993
-  author: Blanco Abia, Cristina
+  author: Cristina Blanco Abia
   tutor: Eduardo Zalama
   year: '2014'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
-
+  
 - title: Desarrollo de un sistema de visión 3D para su integración en un robot móvil social
   url: https://uvadoc.uva.es/handle/10324/14803
-  author: Juárez Sánchez, Alexis
-  tutor: Eduardo Zalama, Jaime Gómez García-Bermejo
+  author: Alexis Juárez Sánchez
+  tutor: Jaime Gómez García-Bermejo y Eduardo Zalama
   year: '2014'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
 
-- title: Sistema de ayuda a la conducción basado en la estimación del estado emocional del conductor
-  url: https://uvadoc.uva.es/handle/10324/69208
-  author: Lera García, Alejandro
-  tutor: Eusebio de la Fuente López, Ana Cisnal de la Rica
-  year: '2023'
-  studies: ''
-  state: 2
-
-- title: Desarrollo de un sistema de adquisición de señales de EEG para una interfaz de control de juegos
-  url: https://uvadoc.uva.es/handle/10324/59004
-  author: Mosén Fernández, Alejandro
-  tutor: Eusebio de la Fuente López, Ana Cisnal de la Rica
-  year: '2022'
-  studies: ''
-  state: 2
-
-- title: Aplicación Android para la gestión de terapias en una plataforma de neurorrehabilitación pediátrica
-  url: https://uvadoc.uva.es/handle/10324/59006
-  author: García Gómez, Miguel
-  tutor: Eusebio de la Fuente López, Ana Cisnal de la Rica
-  year: '2022'
-  studies: ''
-  state: 2
-
-- title: Sistema de captura de movimiento para miembro superior orientado a neurorrehabilitación
-  url: https://uvadoc.uva.es/handle/10324/56524
-  author: Álvarez Álvarez, Patricia
-  tutor: Eusebio de la Fuente López, Ana Cisnal de la Rica
-  year: '2022'
-  studies: ''
-  state: 2
-
-- title: Sistema Android para rehabilitación de muñeca
-  url: https://uvadoc.uva.es/handle/10324/47231
-  author: Recio Pintor, Ana María
-  tutor: Eusebio de la Fuente López
-  year: '2021'
-  studies: ''
-  state: 2
-
-- title: Sistema Android para rehabilitación de rodilla
-  url: https://uvadoc.uva.es/handle/10324/41135
-  author: García Díaz, Andrea
-  tutor: Eusebio de la Fuente López
-  year: '2020'
-  studies: ''
-  state: 2
-
-- title: Sistema Android para la monitorización del proceso de rehabilitación
-  url: https://uvadoc.uva.es/handle/10324/40842
-  author: Díez Villa, María
-  tutor: Eusebio de la Fuente López
-  year: '2020'
-  studies: ''
-  state: 2
-
-- title: Sistema de Entrenamiento Cognitivo con Realidad Aumentada para Pacientes Pediátricos
-  url: https://uvadoc.uva.es/handle/10324/41176
-  author: Bayón Díaz, Miguel
-  tutor: Eusebio de la Fuente López
-  year: '2020'
-  studies: ''
-  state: 2
-
-- title: Sistema de Adquisición de Señales Fisiológicas para la Monitorización de Pacientes
-  url: https://uvadoc.uva.es/handle/10324/25548
-  author: Martín Alonso, Sergio
-  tutor: Eusebio de la Fuente López
-  year: '2017'
-  studies: ''
-  state: 2
-
-- title: Sistema de reconocimiento de gestos de la lengua para interfaces hombre-máquina
+- title: Desarrollo de un sistema para la monitorización de operaciones manuales mediante sensor Kinect
   url: https://uvadoc.uva.es/handle/10324/13175
-  author: Ojosnegros Ramos, Eduardo
+  author: Eduardo Ojosnegros Ramos
   tutor: Jaime Gómez García-Bermejo
   year: '2014'
-  studies: ''
-  state: 2
-
-- title: Monitorización de la actividad de personas mayores mediante técnicas de aprendizaje profundo.
-  url: https://uvadoc.uva.es/handle/10324/61345
-  author: Sánchez-Girón Coca, Celia
-  tutor: Jaime Gómez García-Bermejo, Javier Pérez Turiel
-  year: '2023'
-  studies: ''
+  studies: 'Grado en Ingeniería en Electrónica Industrial y Automática'
   state: 2
