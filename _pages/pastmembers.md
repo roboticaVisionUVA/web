@@ -18,7 +18,7 @@ permalink: /team/past/
 {% endif %}
 
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left; filter: grayscale(100%); -webkit-filter: grayscale(100%);" />
   <h4>{{ member.name }}</h4>
 </div>
 
