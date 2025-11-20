@@ -10,18 +10,9 @@ permalink: /team/
 
 # Group Members
 
-<h1 style="text-align:center">
-<a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.JPG" style="width:80%;">
 
-  <div>
-
-  Team pictures        →
-
-  </div></a>
-  </h1>
-
-<!-- <center>
-  <a href="/teampictures"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.JPG" style="width:80%;">
+<center>
+  <a href="{{ site.baseurl }}/teampictures/"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/grupo.JPG" style="width:80%;">
 
   <div>
 
@@ -29,7 +20,7 @@ permalink: /team/
 
   </div></a>
 
-</center> -->
+</center>
 
 <!--
 
@@ -116,7 +107,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -159,24 +150,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-<h1 style="text-align:center">
- <a href="/team/past">
-  <div>
-
-  Past members        →
-
-  </div></a>
-  </h1>
-
-
-<!-- <center>
+<center>
   <a href="/team/past">
   <div>
 
   Past members        →
 
   </div></a>
-</center> -->
+</center>
 
 <br>
 
