@@ -2,7 +2,7 @@
 title: "ITAP Robotics & Computer Vision - Team Photos"
 layout: piclay
 excerpt: "ITAP Robotics & Computer Vision -- Team Photos"
-permalink: /teampictures/
+permalink: /team/teampictures/
 ---
 
 # Team Pictures
