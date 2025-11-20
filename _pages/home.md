@@ -24,9 +24,9 @@ We actively contribute to the advancement of robotics and artificial intelligenc
 
 We are located in the Faculty of Engineering of the University of Valladolid (Mergelina building). Full contact info is available in the [contact page](/contact).
 
-Follow our YouTube channel: <a href="https://www.youtube.com/@Rob%C3%B3ticaVisi%C3%B3nUVA">YouTube Channel</a>
+Follow our YouTube channel: <a href="https://www.youtube.com/channel/UCWCbHyPbBXhH2sDBwYh0u4g">YouTube Channel</a>
 
-Follow our TikTok channel: <a href="https://www.youtube.com/channel/UCWCbHyPbBXhH2sDBwYh0u4g">TikTok Channel</a>
+Follow our TikTok channel: <a href="https://www.tiktok.com/@roboticavisionuva?_r=1&_t=ZN-91WYDGeG7BG">TikTok Channel</a>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
