@@ -13,6 +13,21 @@
   image: JornadasDeAutomatica2025.png
   link: <a href="https://www.jautomatica.upct.es/127169/detail/xlvi-jornadas-de-automatica-cartagena-2025.html" target="_blank">XLVI Jornadas de Automática in Cartagena</a>
 
+- date: 6 June 2025
+  headline: "Celia Sánchez-Girón Coca receives the 2025 themed group Computer vision in the Simposio CEA de Robótica, Bioingeniería, Visión Artificial y Automática marina in Almería."
+  image: sesion_jornadas_almeria.jpg
+  link: <a href="https://arm.ual.es/rbvm/" target="_blank">Simposio CEA de Robótica, Bioingeniería, Visión Artificial y Automática marina in Almería</a>
+
+- date: 4 June 2025
+  headline: "Our team attended the Simposio CEA de Robótica, Bioingeniería, Visión Artificial y Automática marina in Almería."
+  image: Jornadas_Almeria_2025.jpg
+  link: <a href="https://arm.ual.es/rbvm/" target="_blank">Simposio CEA de Robótica, Bioingeniería, Visión Artificial y Automática marina in Almería</a>
+
+- date: 29 April 2025
+  headline: "The researcher Celia Sánchez-Girón Coca competed in the final phase of the Three Minute Thesis competition, presenting her PhD research in just three minutes."
+  image: celia_3mt.jpg
+  link: <a href="https://www.youtube.com/watch?v=v2CWMbe4NiA" target="_blank">3MT Three Minutes Thesis Final Local</a>
+
 - date: 7 February 2025
   headline: "Our colleague Miguel García Gómez receives the XXII Michelin Award for the Best Final Project in Innovation, Quality, Organisation and Research."
   image: premiomichelin.jpg
@@ -34,9 +49,14 @@
   link: <a href="https://portaldelaciencia.uva.es/documentos/67bcc402455fcc522c5698dd" target="_blank">Thesis</a>
 
 - date: 31 May 2024
-  headline: "Research group participates in Robotics Symposium in Badajoz: Diego Benavides showcases an automatic and real-time integrable model for the localization of laparoscopic surgery tools"
+  headline: "Research group participates in Robotics Symposium in Badajoz presenting our work"
   image: SimposioCEABadajoz2024.jpg
   link: <a href="https://eventos.unex.es/107983/section/49270/simposio-de-robotica-biongenieria-y-vision-por-computador-2024.html" target="_blank">Simposio de Robótica, Bioingeniería y Visión por Computador, Badajoz 2024</a>
+
+- date: 14 June 2023
+  headline: "Our team attended the XIII Jornadas Nacionales de Robótica y Bioingeniería in Madrid."
+  image: Jornadas_Madrid_2023.jpg
+  link: <a href="https://eventos.upm.es/93952/detail/jornadas-nacionales-de-robotica-y-bioingenieria.html" target="_blank">XIII Jornadas Nacionales de Robótica y Bioingeniería in Madrid</a>
 
 - date: 21 December 2021
   headline: "Regional newspaper 'El Mundo' awards and showcases our research on robots that live with older adults."
